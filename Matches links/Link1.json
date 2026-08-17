@@ -1,11 +1,16 @@
 [
   {
     "name": "Channel 1",
-    "url": "https://example.com/live/channel1.m3u8",
+    "url": "http://193.47.62.44/hls/aaaab.m3u8",
     "headers": {
-      "Referer": "https://example.com/",
-      "User-Agent": "Mozilla/5.0"
+  "Referer": "http://www.fawanews.sc/",
+  "Origin": "http://www.fawanews.sc/",
+  "User-Agent": "Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+  "Accept-Encoding": "gzip",
+  "Host": "193.47.62.44",
+  "Connection": "Keep-Alive"
     }
+
   },
   {
     "name": "Channel 2",
