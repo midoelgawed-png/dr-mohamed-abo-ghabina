@@ -10,7 +10,7 @@
   "Host": "193.47.62.57",
   "Connection": "Keep-Alive"
     },
-    "overlayText": "هذه القناة تعمل وقت بث المباريات فقط حصرياً على تطبيق شبكة أخبار صفط تراب",
+    "overlayText": "هذه القناة تعمل وقت بث المباريات فقط\nحصرياً على تطبيق شبكة أخبار صفط تراب",
     "overlayTextColor": "#FFFF00",
     "overlayTextSize": 18,
     "overlayPosition": "bottom_center"
